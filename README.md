@@ -1,0 +1,1 @@
+# minilaravel.loc
